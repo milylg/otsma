@@ -1,0 +1,2 @@
+# otsma
+note or blog
